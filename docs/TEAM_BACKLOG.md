@@ -1,4 +1,4 @@
-<p align="center">
+﻿<p align="center">
   <img src="../images/vericommit-v-check-logo.png"
        alt="VeriCommit V Check Logo"
        width="180">
@@ -13,7 +13,7 @@
 <p align="center">
   <img src="../images/vericommit-evidence-workflow-infographic.png"
        alt="VeriCommit workflow from milestone proposal to human review"
-       width="850">
+       width="100%">
 </p>
 
 ---
@@ -191,3 +191,4 @@ Acceptance criteria:
 ## Definition of Done
 
 A task is done when its acceptance criteria are met, the relevant behavior has been checked, and any necessary documentation is updated.
+
