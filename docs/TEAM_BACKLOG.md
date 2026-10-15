@@ -17,7 +17,7 @@
 </p>
 
 ---
-# Team Backlog  VeriCommit
+
 
 ## Purpose
 
