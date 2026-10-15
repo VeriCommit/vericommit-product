@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="../images/vericommit-evidence-workflow-infographic.png"
+  <img src="../images/VeriCommit Team Backlog Roadmap.png"
        alt="VeriCommit workflow from milestone proposal to human review"
        width="100%">
 </p>
