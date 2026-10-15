@@ -1,8 +1,18 @@
-# VeriCommit
+﻿<p align="center">
+  <img src="images/vericommit-v-check-logo.png" alt="VeriCommit V Check Logo" width="220">
+</p>
 
-**Fund with Evidence.**
+<h1 align="center">VeriCommit</h1>
+
+<p align="center"><strong>Fund with Evidence.</strong></p>
 
 VeriCommit is an AI-powered grant management and milestone verification tool that helps grantors and grantees track funded software projects, evaluate GitHub contributions against agreed milestones, and make evidence-based funding decisions.
+
+## The VeriCommit Evidence Workflow
+
+<p align="center">
+  <img src="images/vericommit-evidence-workflow-infographic.png" alt="VeriCommit Evidence Workflow: propose a milestone, connect GitHub, create evidence, evaluate evidence with AI, and review the result as a human." width="900">
+</p>
 
 ## The Problem
 
