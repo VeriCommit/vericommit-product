@@ -1,4 +1,4 @@
-﻿<p align="center">
+<p align="center">
   <img src="images/vericommit-v-check-logo.png" alt="VeriCommit V Check Logo" width="220">
 </p>
 
@@ -80,6 +80,7 @@ We will assess the product across:
 - [MVP Scope](docs/MVP_SCOPE.md)
 - [API Contract](docs/API_CONTRACT.md)
 - [AI Evaluation Rules](docs/AI_EVALUATION_RULES.md)
+- [Team Backlog](docs/TEAM_BACKLOG.md)
 
 ## Project Status
 
