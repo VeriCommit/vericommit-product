@@ -77,6 +77,9 @@ One Grantor may enter into separate Funding Agreements with multiple Grantees.
 
 Each agreement has its own scope and milestones. Milestones belonging to one agreement must not automatically become part of another agreement.
 
+![Scenario 2: One Grantor, Multiple Grantees](../../images/scenario-02-one-grantor-multiple-grantees.png)
+
+*Figure 2. One Grantor may fund multiple Grantees through separate Funding Agreements, each with its own milestones.*
 ### 5.3 Multiple Independent Grantors Funding One Grantee Simultaneously
 
 A Grantee may have multiple active Funding Agreements with different Grantors at the same time.
