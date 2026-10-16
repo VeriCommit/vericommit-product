@@ -81,6 +81,7 @@ We will assess the product across:
 - [API Contract](docs/API_CONTRACT.md)
 - [AI Evaluation Rules](docs/AI_EVALUATION_RULES.md)
 - [Team Backlog](docs/TEAM_BACKLOG.md)
+- [Entity Relationships](docs/domain-model/ENTITY_RELATIONSHIPS.md)
 
 ## Project Status
 
