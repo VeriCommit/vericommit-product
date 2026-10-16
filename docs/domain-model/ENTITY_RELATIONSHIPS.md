@@ -92,6 +92,9 @@ For example:
 
 Each milestone belongs to its own agreement. The Grantee is not required to finish all work funded by one Grantor before receiving funding from another Grantor for a different scope.
 
+![Scenario 3: Multiple Grantors, One Grantee](../../images/scenario-03-multiple-grantors-one-grantee.png)
+
+*Figure 3. Two independent Grantors may concurrently fund different milestones for the same Grantee through separate Funding Agreements.*
 ### 5.4 Sequential Funding
 
 A Grantor may fund an earlier phase, and another Grantor may later fund a subsequent phase.
