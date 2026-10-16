@@ -67,6 +67,10 @@ One Grantor funds one Grantee under one Funding Agreement containing multiple Mi
 
 All those milestones belong to that agreement.
 
+![Scenario 1: One Grantor, One Grantee, Multiple Milestones](../../images/scenario-01-one-grantor-multiple-milestones.png)
+
+*Figure 1. One Grantor funds one Grantee through a single Funding Agreement containing multiple Milestones.*
+
 ### 5.2 One Grantor, Multiple Grantees
 
 One Grantor may enter into separate Funding Agreements with multiple Grantees.
@@ -186,4 +190,3 @@ The relationship model is acceptable when tests demonstrate that:
 This document is a proposed domain specification, not proof that every rule has been implemented.
 
 Changes to relationship cardinality or the core invariants require explicit product and engineering review. The API contract, database constraints, application behavior, and automated tests must be updated together when an approved change affects them.
-
