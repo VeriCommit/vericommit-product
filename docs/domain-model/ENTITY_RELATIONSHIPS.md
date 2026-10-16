@@ -3,14 +3,14 @@
 **Status:** Proposed - requires team review  
 **Document type:** Domain Model / Entity Relationship Specification  
 **Scope:** Grantors, Grantees, Funding Agreements, and Milestones
+***
+ <p align="center">
+  <img src="../../images/scenario-04-sequential-funding.png" alt="Scenario 4: Sequential Funding Timeline" width="100%" />
+</p> 
 
 ## 1. Purpose
 
 This document defines how Grantors, Grantees, Funding Agreements, and Milestones relate within VeriCommit. It establishes the relationship rules that product decisions, database design, API contracts, implementation, and tests must follow.
-
-The accompanying infographic is:
-
-`images/VeriCommit Funding Relationships Infographic.png`
 
 ## 2. Core Principle
 
