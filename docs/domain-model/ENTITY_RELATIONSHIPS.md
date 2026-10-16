@@ -126,6 +126,10 @@ A single Milestone must not be assigned simultaneously to two independent Granto
 
 If multiple organizations jointly fund that same milestone, they must be represented by one formally defined Collaborative Grantor entity under the agreement.
 
+![Scenario 6: Invalid and Valid Funding Alternatives](../../images/scenario-06-invalid-and-valid-alternatives.png)
+
+*Figure 6. Independent Grantors must not simultaneously fund the same Milestone under one Funding Agreement; valid alternatives include a formally defined Collaborative Grantor or separate Milestones under separate agreements.*
+
 ### 6.2 Implicit Sharing of Responsibilities
 
 A Grantor must not be assumed to share responsibility for another Grantor's Funding Agreement or Milestones merely because both fund the same Grantee.
