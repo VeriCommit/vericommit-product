@@ -5,7 +5,7 @@
 **Scope:** Grantors, Grantees, Funding Agreements, and Milestones
 ***
  <p align="center">
-  <img src="../../images/scenario-04-sequential-funding.png" alt="Scenario 4: Sequential Funding Timeline" width="100%" />
+  <img src="../../images/VeriCommit Grant Flow Diagram.png" alt="VeriCommit Grant Flow Diagram" width="100%" />
 </p> 
 
 ## 1. Purpose
