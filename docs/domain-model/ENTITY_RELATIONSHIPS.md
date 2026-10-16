@@ -102,6 +102,9 @@ A Grantor may fund an earlier phase, and another Grantor may later fund a subseq
 The later funding must be represented by its own Funding Agreement. Sequential funding is permitted but is not mandatory for all funding relationships.
 
 A later agreement must explicitly define its scope and must not silently rewrite the terms or history of an earlier agreement.
+![Scenario 4: Sequential Funding Timeline](../../images/scenario-04-sequential-funding.png)
+
+*Figure 4. Different Grantors may fund a Grantee at different times through separate Funding Agreements, with each agreement defining its own scope.*
 
 ### 5.5 Collaborative Grantor
 
