@@ -114,6 +114,10 @@ The agreement has one responsible Grantor entity: the Collaborative Grantor.
 
 This does not mean that any two independent Grantors automatically become a Collaborative Grantor merely because they support the same Grantee or project.
 
+![Scenario 5: Collaborative Grantor Funding Flow](../../images/scenario-05-collaborative-grantor.png)
+
+*Figure 5. Multiple organizations may jointly fund a Grantee through one Funding Agreement when they are formally represented as a single Collaborative Grantor entity.*
+
 ## 6. Prohibited Scenarios
 
 ### 6.1 One Milestone Assigned to Multiple Independent Grantors
