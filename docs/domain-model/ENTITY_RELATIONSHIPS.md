@@ -217,13 +217,13 @@ The transfer and reassignment workflow tests must be implemented when those work
 
 ## 11. Related Documentation
 
-- `docs/PRODUCT_BRIEF.md`
-- `docs/MVP_SCOPE.md`
-- `docs/API_CONTRACT.md`
-- `docs/AI_EVALUATION_RULES.md`
-- `docs/domain-model/DOMAIN_ENTITIES.md` (future, if needed)
-- `docs/domain-model/DOMAIN_RULES.md` (future, if needed)
-- `docs/domain-model/DOMAIN_DIAGRAMS.md` (future, if needed)
+- [Product Brief](../PRODUCT_BRIEF.md)
+- [MVP Scope](../MVP_SCOPE.md)
+- [API Contract](../API_CONTRACT.md)
+- [AI Evaluation Rules](../AI_EVALUATION_RULES.md)
+- [Domain Entities](DOMAIN_ENTITIES.md) 
+- [Domain Rules](DOMAIN_RULES.md) 
+- [Domain Diagrams](DOMAIN_DIAGRAMS.md) 
 
 ## 12. Governance
 
